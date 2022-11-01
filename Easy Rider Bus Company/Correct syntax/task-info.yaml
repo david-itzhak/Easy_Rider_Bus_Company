@@ -159,6 +159,12 @@ files:
     n\"\n                                     f\"a_time: {result[3]}\")\n        return\
     \ CheckResult.correct()\n\n\nif __name__ == '__main__':\n    EasyRiderStage2('easyrider.easyrider').run_tests()\n"
   learner_created: false
+- name: easyrider/validation_funcs.py
+  visible: true
+  learner_created: true
 feedback_link: https://hyperskill.org/learn/step/10889#comment
-status: Unchecked
-record: -1
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Mon, 31 Oct 2022 18:35:29 UTC"
+record: 2
